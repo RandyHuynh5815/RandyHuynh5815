@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi There! 👋
 
+#### My name is Randy Huynh, and I am currently a second-year CS major at the University of California, Irvine.  
+
+I have many interests in both computer science and mathematics, and am currently an aspiring machine learning engineer, data scientist and computer science professor.
+I am currently working as a undergraduate researcher for [Professor Theodore van Erp](https://cnlm.uci.edu/erp/), front-end developer on the ICSSC Projects Committee, mentor for AI@UCI and an ICS lab tutor. As you look at my works, you will see me bridge theory and application in the computer science field.  
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/randy-huynh-a917161b5/). View my resume [here](https://drive.google.com/file/d/1m1T9GcqH7yYIJi_hjLegBBPKiMfL3P8H/view?usp=sharing).  
+
+
+![image](https://user-images.githubusercontent.com/55762196/148705738-8fe6bb80-c43f-4a65-ba93-5249e516c8b0.png)
+*Machine learning project that detects if a tweet about COVID-19 is factual or a misconception. Repo pinned below* 
 <!--
 **RandyHuynh5815/RandyHuynh5815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
