@@ -1,6 +1,6 @@
-### Hi There! 👋
+## Hi There! 👋
 
-#### My name is Randy Huynh, and I am currently a second-year CS major at the University of California, Irvine.  
+### My name is Randy Huynh, and I am currently a second-year CS major at the University of California, Irvine.  
 
 I have many interests in both computer science and mathematics, and am currently an aspiring machine learning engineer, data scientist and computer science professor.
 I am currently working as a undergraduate researcher for [Professor Theodore van Erp](https://cnlm.uci.edu/erp/), front-end developer on the ICSSC Projects Committee, mentor for AI@UCI and an ICS lab tutor. As you look at my works, you will see me bridge theory and application in the computer science field.  
