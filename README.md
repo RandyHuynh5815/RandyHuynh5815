@@ -1,8 +1,8 @@
 ## Hi There! 👋
 
-### My name is Randy Huynh (he/him/his), and I am currently a third-year CS major at the University of California, Irvine.  
+### My name is Randy Huynh (he/him/his), and I am currently a fourtg-year CS major at the University of California, Irvine.  
 
-I have many interests in both computer science and mathematics, and am currently an aspiring machine learning engineer, data scientist and computer science professor.
+I have many interests in both computer science and statistics and am currently an aspiring machine learning engineer, data scientist, and computer science professor.
 I am currently working as a undergraduate researcher for [Professor Michael Shindler](https://www.ics.uci.edu/~mikes/), front-end developer on the ICSSC Projects Committee, mentor for AI@UCI and a Tech Organizer for Hack@UCI. My works will touch upon the fields of web development, ML, NLP, statistics and data science.    
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/randy-huynh-a917161b5/). View my resume [here](https://drive.google.com/file/d/1m1T9GcqH7yYIJi_hjLegBBPKiMfL3P8H/view?usp=sharing).  
